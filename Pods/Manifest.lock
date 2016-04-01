@@ -1,0 +1,13 @@
+PODS:
+  - JSON (4.0.2)
+  - JSONModel (1.2.0)
+
+DEPENDENCIES:
+  - JSON (~> 4.0)
+  - JSONModel (~> 1.2)
+
+SPEC CHECKSUMS:
+  JSON: d08f22c3e523be050d5d5f40bca43ec02d95b2cc
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+
+COCOAPODS: 0.39.0
